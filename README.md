@@ -134,4 +134,5 @@ public class DemoController {
 }
 ```
 ### 更多信息
-- 可参阅 [easycaptcha-demo](https://github.com/yindz/easycaptcha-example) 工程
+- 代码范例可参阅 [easycaptcha-demo](https://github.com/yindz/easycaptcha-example) 工程
+- 成语数据取自开源项目[中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua)，去掉了一些较长的成语，保留4字成语
